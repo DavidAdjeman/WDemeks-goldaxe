@@ -1,14 +1,11 @@
-/**
-* Template Name: Append
-* Updated: Sep 18 2023 with Bootstrap v5.3.2
-* Template URL: https://bootstrapmade.com/append-bootstrap-website-template/
-* Author: BootstrapMade.com
-* License: https://bootstrapmade.com/license/
+/*
+* Name: WDemeks
+* Updated: Oct 19 2023 with Bootstrap v5.3.2
 */
 document.addEventListener('DOMContentLoaded', () => {
   "use strict";
 
-  /**
+  /*
    * Scroll top button
    */
   let scrollTop = document.querySelector('.scroll-top');
